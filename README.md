@@ -53,5 +53,5 @@ Tested using Postman
 ![Dashboard](DASHBOARD.png)
 
 ### Record Creation API
-![Record](RECORD CREATION.png)
+![Record](RECORD.png)
 Implemented a finance backend with secure authentication, role-based access, and dynamic aggregation of financial data using MongoDB.
