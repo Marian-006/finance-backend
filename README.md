@@ -47,4 +47,11 @@ GET /api/dashboard/summary
 Authorization: <JWT_TOKEN>
 🧠 Summary
 Tested using Postman
+## 📸 Screenshots
+
+### Dashboard Output
+![Dashboard](DASHBOARD.png)
+
+### Record Creation API
+![Record](RECORD CREATION.png)
 Implemented a finance backend with secure authentication, role-based access, and dynamic aggregation of financial data using MongoDB.
